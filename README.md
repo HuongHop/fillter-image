@@ -1,3 +1,3 @@
 # fillter-image
 
-Link: http://fillter-image-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdnimgen.vietnamplus.vn/t620/uploaded/wbxx/2021_12_20/vn.jpg
+Link test including the link provided in the project: http://fillter-image-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
